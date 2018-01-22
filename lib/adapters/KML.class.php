@@ -115,7 +115,7 @@ class KML extends GeoAdapter
   protected function parsePoint($xml) {
     $coordinates = $this->_extractCoordinates($xml);
     if (!empty($coordinates)) {
-      return new Point($coordinates[0][0],$coordinates[0][1]);
+      return new Point($coordinates[0][0],$coordinates[0][1],$coordinates[0][2]);
     }
     else {
       return new Point();
