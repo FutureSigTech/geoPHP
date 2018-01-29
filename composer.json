@@ -1,6 +1,6 @@
 {
     "name": "innoto/geophp",
-    "license": "GPL-2 or New-BSD",
+    "license": "GPL-2.0-or-later",
     "type": "library",
     "description": "(Forked from origianl) phayes/geoPHP",
     "homepage": "https://github.com/innoto/geoPHP",
