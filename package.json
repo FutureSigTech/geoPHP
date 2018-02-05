@@ -3,7 +3,7 @@
   "version": "master",
   "description": "(Forked from original) phayes/geoPHP",
   "main": "geoPHP.inc",
-  "repository": "https://github.com/Innoto/geoPHP.git",
+  "repository": "https://github.com/Innoto/geoPHP",
   "author": "Innoto",
   "license": "GPL-2.0-or-later"
 }
