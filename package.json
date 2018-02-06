@@ -1,6 +1,6 @@
 {
   "name": "innoto-geophp",
-  "version": "master",
+  "version": "1.0.0",
   "description": "(Forked from original) phayes/geoPHP",
   "main": "geoPHP.inc",
   "repository": {
