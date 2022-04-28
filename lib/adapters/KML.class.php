@@ -126,7 +126,7 @@ class KML extends GeoAdapter
     $coordinates = $this->_extractCoordinates($xml);
     $point_array = array();
     foreach ($coordinates as $set) {
-      $point_array[] = new Point($set[0],$set[1]);
+      $point_array[] = new Point($set[0],$set[1],$set[2]);
     }
     return new LineString($point_array);
   }
