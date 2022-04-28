@@ -1,12 +1,12 @@
 {
-  "name": "innoto-geophp",
+  "name": "futuresigtech-geophp",
   "version": "1.0.0",
   "description": "(Forked from original) phayes/geoPHP",
   "main": "geoPHP.inc",
   "repository": {
-    "url": "https://github.com/innoto/geoPHP.git",
+    "url": "https://github.com/FutureSigTech/geoPHP.git",
     "type": "git"
   },
-  "author": "Innoto",
+  "author": "FutureSigTech",
   "license": "GPL-2.0-or-later"
 }
